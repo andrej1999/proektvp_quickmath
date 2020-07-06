@@ -1,3 +1,5 @@
+## Изработиле 181199 и 181214
+
 # Quick Math
 
 ![Pocetna](https://github.com/andrej1999/proektvp_quickmath/blob/master/assets/images/Capture.PNG?raw=true)
